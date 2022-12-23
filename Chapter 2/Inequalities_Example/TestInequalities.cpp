@@ -1,8 +1,6 @@
 #include <iostream>
 #include "Inequalities.hpp"
 
-
-
 int main() {
 	double d1, d2;
 	std::cout << "Give the first number: ";

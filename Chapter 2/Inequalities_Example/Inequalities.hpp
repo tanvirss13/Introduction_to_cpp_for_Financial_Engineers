@@ -1,6 +1,3 @@
-#pragma once
-
-
 #ifndef INEQUALITIES_HPP
 #define INEQUALITIES_HPP
 
